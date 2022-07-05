@@ -1,0 +1,2 @@
+# Sparks-Foundation-Task1
+Basic Banking System: design a simple dynamic website which has following specs:  start with creating a dummy database for upto 10 customers.Database options:MySQL, Mongo etc.Customer table will have basic fields such as: name, email ,current balance.Transfer table will record all the transaction happened. Flow:Home Page> View all customers> Select one Customer to transfer to> view all customers. No login Page. No user creation. Only transfer of money between multiple users.
